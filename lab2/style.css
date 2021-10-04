@@ -1,0 +1,9 @@
+.border{
+    border: 3px solid blue;
+    background: darkred;
+}
+.first{
+    width: 616px;
+    padding: 3px;
+    border: 1px solid black;
+}
